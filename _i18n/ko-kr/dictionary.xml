@@ -3258,7 +3258,6 @@ _Model_을 클릭하면 각 매개변수에 대한 설명과 함께 JSON 매개�
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">NVMe over TCP 지원</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">ONTAP Select 9.13.1로 업그레이드할 때 TCP를 통해 NVMe를 지원할 수 있는 새 라이센스가 있어야 합니다. 이 라이선스는 버전 9.13.1에서 처음으로 ONTAP Select를 배포할 때 자동으로 포함됩니다.</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">VMware ESXi 지원이 업데이트되었습니다</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">ONTAP 9.13.1부터 VMware ESXi 8.0 GA(빌드 20513097)는 하드웨어 버전 4 이상에서 지원됩니다.</block>
   <block id="2183c79114d56889f4a8854299f703a5" category="list-text">2024년 4월부터 ONTAP Select Deploy 9.13.1 은 NetApp Support 사이트에서 더 이상 제공되지 않습니다. ONTAP Select 배포 9.13.1을 실행 중인 경우 가능한 한 빨리 ONTAP Select 배포 9.14.1P2로 업그레이드해야 합니다. 자세한 내용은 를 참조하십시오 <block ref="6635db952aa4480bb5bc591b4d6d32f6" category="inline-link-macro-rx"></block>.</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">ONTAP Select 9.12.1</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">ONTAP Select 9.12.1은 핵심 ONTAP 제품의 현재 릴리스에 새로 개발된 기능 중 대부분을 활용할 수 있습니다. ONTAP Select와 관련된 새로운 기능 또는 개선 사항은 포함되어 있지 않습니다.</block>
@@ -3773,4 +3772,6 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">ONTAP Select 이미지를 제거합니다</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">2노드 클러스터에 대한 구축 복구</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 이상에서는 이제 최대 16개의 관계로 SVM DR을 소스와 대상에서 모두 지원합니다. SVM DR 지원은 소스 ONTAP 버전을 사용하는 버전 + 2로 제한됩니다. 예를 들어 ONTAP Select 9.12.1 소스는 대상 ONTAP 버전 9.12.1, 9.13.1 또는 9.14.1에 연결할 수 있습니다.</block>
+  <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1에는 VMware ESXi 8.0.2에 대한 지원이 포함되어 있습니다.</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">ONTAP 9.13.1부터 VMware ESXi 8.0.1 GA(빌드 20513097)는 하드웨어 버전 4 이상에서 지원됩니다.</block>
 </blocks>
