@@ -3679,7 +3679,6 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">프록시 URL(선택 사항)</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">사용 가능한 관리 셸 명령 목록을 표시하려면 *? * 를 입력하고 * Enter * 를 누릅니다.</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select는 VMware ESXi 또는 KVM(커널 기반 가상 시스템) 하이퍼바이저를 실행하는 다양한 일반 하드웨어 서버에 구축할 수 있는 소프트웨어 정의 스토리지 어플라이언스입니다. 유연하고 확장 가능한 프라이빗 클라우드 인프라를 구축하는 데 필요한 민첩성을 제공합니다. 이 사이트에는 ONTAP Select 9.14.1에 대한 문서가 포함되어 있습니다.</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">ONTAP Select 설명서</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
@@ -3774,4 +3773,5 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 이상에서는 이제 최대 16개의 관계로 SVM DR을 소스와 대상에서 모두 지원합니다. SVM DR 지원은 소스 ONTAP 버전을 사용하는 버전 + 2로 제한됩니다. 예를 들어 ONTAP Select 9.12.1 소스는 대상 ONTAP 버전 9.12.1, 9.13.1 또는 9.14.1에 연결할 수 있습니다.</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1에는 VMware ESXi 8.0.2에 대한 지원이 포함되어 있습니다.</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">ONTAP 9.13.1부터 VMware ESXi 8.0.1 GA(빌드 20513097)는 하드웨어 버전 4 이상에서 지원됩니다.</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">ONTAP Select 9.14.1 설명서</block>
 </blocks>
