@@ -3774,4 +3774,6 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1에는 VMware ESXi 8.0.2에 대한 지원이 포함되어 있습니다.</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">ONTAP 9.13.1부터 VMware ESXi 8.0.1 GA(빌드 20513097)는 하드웨어 버전 4 이상에서 지원됩니다.</block>
   <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">ONTAP Select 9.14.1 설명서</block>
+  <block id="066308395ea593f82277b09bef1304dc" category="list-text">원래 Deploy 가상 머신 이미지를 저장합니다.</block>
+  <block id="f3d42eb73da0b3db6a0beb04d2f78c68" category="admonition">구축 구성 데이터를 원래 가상 머신으로 복구할 때는 이 절차의 뒷부분에서 원래 가상 머신 구축 이미지가 필요합니다.</block>
 </blocks>
