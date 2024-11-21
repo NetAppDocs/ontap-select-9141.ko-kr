@@ -3652,7 +3652,6 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">클러스터 관리</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">REST API 사용</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">더 많은 리소스</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">ONTAP Select 리소스 페이지 를 참조하십시오</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">ONTAP Select 제품 라이브러리</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">ONTAP 9 설명서</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">ONTAP Select 블로그</block>
@@ -3742,4 +3741,5 @@ PIP 또는 다른 Python 관리 도구를 환경에 맞게 사용할 수 있습�
   <block id="be0d4e27d8840d1c72235cf50443fb8d" category="inline-link-macro">하이퍼바이저에 대한 소프트웨어 호환성 정보</block>
   <block id="49ea5cb7c3815d4c59fc6dcf8eca3da7" category="paragraph">ISO 이미지를 사용하여 RHEL(Red Hat Enterprise Linux) 운영 체제를 설치해야 합니다. 지원되는 RHEL 버전의 목록은 를 <block ref="12b9dc433549f13cfe17d1a83c8c9209" category="inline-link-macro-rx"></block>참조하십시오. 설치 중에는 다음과 같이 시스템을 구성해야 합니다.</block>
   <block id="97864053a66a3401d6a681c00bd2e4e3" category="paragraph">필요한 패키지 및 기타 구성 요구 사항에 대한 자세한 내용은 를 참조하십시오<block ref="8929420574d68b861547fa3bcafe0ff2" category="inline-link-macro-rx"></block>.</block>
+  <block id="37730150d6378b2a0b04f20595d2d65a" category="list-text">ESXi 8.0 U3</block>
 </blocks>

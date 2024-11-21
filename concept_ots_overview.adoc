@@ -88,6 +88,7 @@ ONTAP Select에서는 여러 ONTAP 기능이 지원되지 않습니다. 대부�
 * 자율 랜섬웨어 보호(ARP)
 * 클러스터 IPspace
 포트, 가상 LAN(VLAN) 또는 링크 집선 그룹을 추가 또는 제거하는 등 클러스터 IPspace에 대한 모든 수정 사항은 지원되지 않습니다.
+* ESXi 8.0 U3
 * 파이버 채널
 Fibre Channel 및 Fibre Channel over Ethernet은 지원되지 않습니다.
 * 상태 모니터링
